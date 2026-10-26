@@ -1,0 +1,14 @@
+{
+  "tool": "ReconForge",
+  "version": "1.0.0",
+  "target": "127.0.0.1",
+  "resolved_ip": "127.0.0.1",
+  "started_utc": "2026-10-25T23:58:08.418771+00:00",
+  "completed_utc": "2026-10-25T23:58:08.833562+00:00",
+  "method": "TCP connect scan; passive banner read only",
+  "open_ports": [],
+  "summary": {
+    "ports_open": 0,
+    "ports_with_banners": 0
+  }
+}
